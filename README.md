@@ -1,9 +1,3 @@
-Sure! Here's the English version of the `README.md`:
-
----
-
-# README
-
 ## Overview
 
 This script processes an Abaqus input file (`.inp`) and automatically inserts 3D cohesive elements (e.g., `COH3D8`, `COH3D6`) between specified elements to simulate fractures or sliding interfaces.
